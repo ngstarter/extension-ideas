@@ -6,5 +6,5 @@ You can contribute by:
 
 ## Guidelines
 1. Make it for one purpose, and small
-2. Make sure you define the `peerDependencies` if you use the same package in Angular 2 Starter
+2. Make sure you define the `peerDependencies` if you use the same package in [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter)
 3. Make a good `Getting started` on how to use your extension
